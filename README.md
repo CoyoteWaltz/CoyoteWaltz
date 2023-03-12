@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**CoyoteWaltz/CoyoteWaltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤓 Hi there
 
 Here are some ideas to get you started:
 
@@ -15,12 +12,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Weclome
+### 👏 Weclome
 
 [![](https://img.shields.io/github/stars/CoyoteWaltz?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=CoyoteWaltz&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite)
 [![](https://img.shields.io/github/followers/CoyoteWaltz?color=27da6b&logo=Handshake)](https://github.com/CoyoteWaltz?tab=followers)
 
-### Stats
+### 📡 Stats
 
 ![CoyoteWaltz's github stats](https://github-readme-stats.vercel.app/api?username=CoyoteWaltz&show_icons=true&theme=highcontrast&bg_color=0,19AFA3,CE94E9,D5B43D&line_height=20)![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoyoteWaltz&layout=compact&theme=highcontrast&bg_color=0,D5B43D,EE9CA7,FFDDE1&line_height=20)
 
