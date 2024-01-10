@@ -20,7 +20,7 @@
 
 ### 📡 Stats
 
-![CoyoteWaltz's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CoyoteWaltz&show_icons=true&theme=highcontrast&bg_color=0,19AFA3,CE94E9,D5B43D&line_height=20)![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoyoteWaltz&layout=compact&theme=highcontrast&bg_color=0,D5B43D,EE9CA7,FFDDE1&line_height=20)
+![CoyoteWaltz's github stats](https://github-readme-stats.vercel.app/api?username=CoyoteWaltz&show_icons=true&theme=highcontrast&bg_color=0,19AFA3,CE94E9,D5B43D&line_height=20)![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoyoteWaltz&layout=compact&theme=highcontrast&bg_color=0,D5B43D,EE9CA7,FFDDE1&line_height=20)
 
 ![profile](https://github-profile-trophy.vercel.app/?username=CoyoteWaltz&theme=algolia&column=8)
 
